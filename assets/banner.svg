@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ronald Britez — Desarrollo de software</title><desc id="desc">Desarrollador junior de Paraguay. Java, Python y desarrollo web.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101f36"/></linearGradient><linearGradient id="accent"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#94b7e6" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1060" cy="155" r="185" fill="#1d4ed8" opacity=".08"/><circle cx="1060" cy="155" r="132" fill="none" stroke="#60a5fa" stroke-opacity=".13"/><circle cx="1060" cy="155" r="98" fill="none" stroke="#60a5fa" stroke-opacity=".13"/>
+<rect x="55" y="53" width="36" height="4" rx="2" fill="url(#accent)"/>
+<text x="107" y="62" font-family="Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="3" fill="#91a8c7">RONALDGAL / PARAGUAY</text>
+<text x="55" y="155" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#f0f6fc">Ronald Britez</text>
+<text x="58" y="207" font-family="Segoe UI,Arial,sans-serif" font-size="30" fill="#a8c6ed">Desarrollo de software</text>
+<rect x="58" y="247" width="71" height="34" rx="8" fill="#172a43" stroke="#2a4364"/><text x="93" y="270" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#e2ecfa">Java</text>
+<rect x="140" y="247" width="92" height="34" rx="8" fill="#172a43" stroke="#2a4364"/><text x="186" y="270" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#e2ecfa">Python</text>
+<rect x="243" y="247" width="74" height="34" rx="8" fill="#172a43" stroke="#2a4364"/><text x="280" y="270" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#e2ecfa">Web</text>
+<g transform="translate(854 99)" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="m63 30-48 47 48 47M163 30l48 47-48 47M138 6l-43 141"/></g>
+<path d="M870 282h90l30-30h155" fill="none" stroke="#2e5e85" stroke-width="2"/><circle cx="870" cy="282" r="5" fill="#22d3ee"/><circle cx="1145" cy="252" r="5" fill="#60a5fa"/>
+<rect x="55" y="323" width="1090" height="1" fill="#7395bf" opacity=".14"/>
+</svg>

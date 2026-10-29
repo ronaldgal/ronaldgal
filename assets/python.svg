@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" role="img" aria-label="Cifrado de mensajes">
+<defs><linearGradient id="bg"><stop stop-color="#0e1726"/><stop offset="1" stop-color="#15243b"/></linearGradient></defs>
+<rect width="600" height="190" rx="15" fill="url(#bg)"/><rect x="1" y="1" width="598" height="188" rx="14" fill="none" stroke="#29415c"/>
+<circle cx="520" cy="90" r="120" fill="#c4a3ff" opacity=".035"/><path d="M28 143H330" stroke="#29415c"/><rect x="28" y="32" width="26" height="3" rx="1.5" fill="#c4a3ff"/>
+<text x="28" y="91" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="700" letter-spacing="-1" fill="#edf4ff">Cifrado de mensajes</text>
+<text x="29" y="124" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2" fill="#c4a3ff">PYTHON / FUNDAMENTOS</text>
+<g transform="translate(412 36)" stroke="#c4a3ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="3" y="11" width="46" height="46" rx="9"/><rect x="80" y="72" width="46" height="46" rx="9"/><path d="M55 34h47v26M94 52l8 8 8-8M74 95H27V69M19 77l8-8 8 8"/><path d="m15 44 11-22 11 22M20 36h12M92 84h22l-22 22h22"/></g></svg>

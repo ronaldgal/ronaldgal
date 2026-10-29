@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" role="img" aria-label="Dapper Tree">
+<defs><linearGradient id="bg"><stop stop-color="#0e1726"/><stop offset="1" stop-color="#15243b"/></linearGradient></defs>
+<rect width="600" height="190" rx="15" fill="url(#bg)"/><rect x="1" y="1" width="598" height="188" rx="14" fill="none" stroke="#29415c"/>
+<circle cx="520" cy="90" r="120" fill="#61d8ae" opacity=".035"/><path d="M28 143H330" stroke="#29415c"/><rect x="28" y="32" width="26" height="3" rx="1.5" fill="#61d8ae"/>
+<text x="28" y="91" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="700" letter-spacing="-1" fill="#edf4ff">Dapper Tree</text>
+<text x="29" y="124" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2" fill="#61d8ae">WEB / PRODUCTIVIDAD</text>
+<g transform="translate(412 36)" stroke="#61d8ae" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M62 4 21 48h23L9 83h43v29h20V83h43L80 48h23Z"/><circle cx="113" cy="29" r="20" fill="#122f2f"/><path d="M113 17v13l9 6"/><path d="M29 119h66"/></g></svg>
